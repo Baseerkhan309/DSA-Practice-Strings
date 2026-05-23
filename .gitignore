@@ -1,29 +1,18 @@
-# DSA Practice - Strings (C++)
+# compiled files
+*.exe
+*.out
+*.o
 
-This repository contains DSA string practice problems and patterns implemented in C++.
+# build folders
+build/
+bin/
 
-## Topics Covered
+# IDE
+.vscode/
 
-- String Basics
-- Character Traversal
-- Reverse String
-- Palindrome Check
-- Frequency Count
-- Anagram Problems
-- String Compression
-- Pattern Questions
-- Two Pointer Technique
-- Sliding Window (basic)
+# OS
+.DS_Store
+Thumbs.db
 
-## Folder Structure
-
-dsa-practice-string/
-│── strings/
-│   ├── reverseString.cpp
-│   ├── palindrome.cpp
-│   ├── anagram.cpp
-│   └── ...
-
-## Goal
-
-Practice string problems regularly and improve problem-solving skills in C++.
+# env
+.env
